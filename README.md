@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+I'm+Niraj+Gajurel;Frontend+Engineer+👨‍💻&color=008000)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+I'm+Niraj+Gajurel&color=008000)](https://git.io/typing-svg)
 
 <img src="https://media.tenor.com/2nKSTDDekOgAAAAC/coding-kira.gif" alt="Alt Text">
 
