@@ -1,5 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+I'm+Niraj+Gajurel;Frontend+Engineer+👨‍💻&color=008000)](https://git.io/typing-svg)
 
+<img src="https://media.tenor.com/2nKSTDDekOgAAAAC/coding-kira.gif" alt="Alt Text">
+
+
 **A passionate Software Engineer | Frontend Engineer**
 
 Email Me 👉 ✉️ **nirazgajurel21@gmail.com**
