@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+I'm+Niraj+Gajurel&color=008000)](https://git.io/typing-svg)
 
-<img src="https://media.tenor.com/2nKSTDDekOgAAAAC/coding-kira.gif" alt="Alt Text">
+<!-- <img src="https://media.tenor.com/2nKSTDDekOgAAAAC/coding-kira.gif" alt="Alt Text"> -->
 
 
 **A passionate Software Engineer | Frontend Engineer**
@@ -12,9 +12,9 @@ Email Me 👉 ✉️ **nirazgajurel21@gmail.com**
 
 <!-- Snake Game Repo View -->
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+</div> -->
 
 ## 🌐 Connect with Me:
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@nirazgajurel21) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nirazgajurel21@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niraj-gajurel-5b32b9201/)
